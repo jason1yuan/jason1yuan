@@ -20,7 +20,7 @@ A search engine that surfaces how online communities discuss products, brands, a
 - Built and extended backend services for LLM-powered semantic search using **FastAPI** and **AWS**
 - Designed asynchronous task-processing pipelines with **SQS**, **Lambda**, **S3**, and **Boto3**
 - Refactored keyword-extraction logic, reducing third-party LLM API calls by **66%**
-- Migrated vector storage from **Milvus** to **AWS S3 Vector DB**, reducing infrastructure cost by **$400/month** while maintaining retrieval quality
+- Migrated vector storage from **Zilliz** to **AWS S3 Vector DB**, reducing infrastructure cost by **$4.8k/year** while maintaining retrieval quality
 - Added CI/CD and production observability with **GitHub Actions** and **CloudWatch**
 
 **Tech:** Python · FastAPI · RAG · Embeddings · MySQL · AWS EC2 · SQS · Lambda · Boto3 · S3 Vector · DynamoDB · CloudWatch
