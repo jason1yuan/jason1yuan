@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Xinzhe Yuan
+## Hi there 👋, I'm Jason
 **Software Engineer focused on backend systems, distributed APIs, agentic tools, and LLM-powered applications.**
 
 I build production-oriented AI software systems with Python, Flask, FastAPI, AWS, semantic search, browser automation, and LLM orchestration.
@@ -51,5 +51,3 @@ An LLM-powered Chrome extension that helps users automate multi-step web workflo
 **Vector & Retrieval:** Milvus · AWS S3 Vector DB · AWS AgentCore Memory · Semantic Search  
 **Frontend & Web Tools:** TypeScript · React · Next.js · Tailwind · Chrome Extension APIs · Chrome DevTools Protocol
 
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/xzyuan/) · xzhe121@gmail.com
